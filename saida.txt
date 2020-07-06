@@ -1,0 +1,5 @@
+'teste': 3 letras diferentes
+'palavra': 5 letras diferentes
+'aaaaaaaaaaaaaaaab': 2 letras diferentes
+'a': 1 letras diferentes
+'abcdeabcdeabcdeabcdeabcdeabcd': 5 letras diferentes
